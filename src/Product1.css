@@ -1,0 +1,9 @@
+.p2{
+    margin: 20px;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: whitesmoke;
+}
+:hover.p2{
+    background-color: black;
+}

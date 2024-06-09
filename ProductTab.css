@@ -1,0 +1,15 @@
+.p1{
+    background-color:black;
+    color: white;
+    border: 20px;
+    border-radius: 15px;
+    margin: 20px;
+    padding: 15px;
+
+}
+:hover .p1{
+    background-color: whitesmoke;
+    color: black;
+    box-shadow: 20px;
+    cursor: pointer;
+}
